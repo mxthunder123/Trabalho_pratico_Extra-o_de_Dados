@@ -6,3 +6,4 @@
   - Melissa
   - Rubens
   - Pedro Sena
+  - Tatiane
